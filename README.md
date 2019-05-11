@@ -1,3 +1,7 @@
+# App React Map
+
+#### Aplicativo criado para estudo de funcionamento do React + Redux + ReduxSaga
+
 
 - App criado no desafio 03 do módulo de ReactJS no bootcamp Rocketseat
 
