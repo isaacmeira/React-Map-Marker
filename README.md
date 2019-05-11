@@ -5,7 +5,7 @@
 
 - App criado no desafio 03 do módulo de ReactJS no bootcamp Rocketseat
 
-  O aprendizado foi em como funciona o redux, bem como redux sarga para o armazenamento de state, junto com a arquitetura Duck na criação do sistema.
+  O aprendizado foi em como funciona o Redux, bem como Redux Saga para o armazenamento de state, junto com a arquitetura Duck na criação do sistema.
   
   Além disso, tivemos o uso da lib [MAPBOX](https://www.mapbox.com/) para fazer o retorno do mapa dentro do nosso componente principal, além das várias funcionalidade programadas dentro da mesma, tais como posição inicial, zoom e etc, você pode saber mais dentro da documentação da mesma.
   Foi usado também a api do github, para armazenar os dados de usuário dentro do conteúdo do marcador do mapa.
