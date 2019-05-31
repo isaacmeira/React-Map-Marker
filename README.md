@@ -23,11 +23,6 @@
       Tela Inicial
   <img src="https://s3.us-east-2.amazonaws.com/gitmap/Screenshot_3.png" height = "600" width = "800" />
 
-      Modal Adição de usuário
-  <img src="https://s3.us-east-2.amazonaws.com/gitmap/Screenshot_4.png" height = "600" width = "800" />
-  
-      Adicionando um usuário
-  <img src="https://s3.us-east-2.amazonaws.com/gitmap/Screenshot_5.png" height = "600" width = "800" />
      
       Adicionando vários usuários
   <img src="https://s3.us-east-2.amazonaws.com/gitmap/Screenshot_2.png" height = "600" width = "800" />
